@@ -1,4 +1,4 @@
-#!/home/freemanj/Documents/learning_log/ll_env/bin/python3
+#!/home/freemanj/Documents/py_work/learning_log/ll_env/bin/python3
 from django.core import management
 
 if __name__ == "__main__":
